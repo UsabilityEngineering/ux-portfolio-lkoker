@@ -1,6 +1,6 @@
 # Larkin's UX Portfolio
 
-About me...
+I am a CINS major with a concentration in network administration. 
 
 ## UX Team Project
 
