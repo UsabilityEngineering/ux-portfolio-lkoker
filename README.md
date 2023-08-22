@@ -1,4 +1,5 @@
 # Larkin's UX Portfolio
+![Alt text](image link)
 
 I am a CINS major with a concentration in network administration. 
 
