@@ -1,5 +1,5 @@
 # Larkin's UX Portfolio
-![Alt text](image link)
+![This is me!](https://github.com/UsabilityEngineering/ux-portfolio-lkoker/blob/master/1670290422175.jpg)
 
 I am a CINS major with a concentration in network administration. 
 
