@@ -6,4 +6,4 @@ Earlier this month, the long-awaited sequel of the Payday franchise, Payday 3, c
   - The Mission Selection
 
 ## In-game Lobby/Matchmaking
-![](1670290422175.jpg)
+![](payday-solo-in-lobby.webp)
