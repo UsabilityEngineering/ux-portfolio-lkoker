@@ -5,4 +5,4 @@ Earlier this month, the long-awaited sequel of the Payday franchise, Payday 3, c
   - The Weapon Stat System
   - The Mission Selection
 
-# # In-game Lobby/Matchmaking
+## In-game Lobby/Matchmaking
