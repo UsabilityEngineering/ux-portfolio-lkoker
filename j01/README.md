@@ -1,9 +1,8 @@
 # The Failure of Payday 3 UI
 
-Earlier this month, the long-awaited sequel of the Payday franchise, Payday 3, came out. The game's launch was utterly abysmal, suffering from a terrible early-access stage that was not even available to PlayStation 5 users who paid for it and servers that shut down for 3 consecutive days. When the game was finally playable, players were greeted by a horrid and confusing UI. Now for the more simple actions the UI does suffice but I want to focus on 3 main issues that are experience-defining. 
+Earlier this month, the long-awaited sequel of the Payday franchise, Payday 3, came out. The game's launch was utterly abysmal, suffering from a terrible early-access stage that was not even available to PlayStation 5 users who paid for it and servers that shut down for 2 consecutive days. When the game was finally playable, players were greeted by a horrid and confusing UI. Now for the more simple actions the UI does suffice but I want to focus on 3 main issues that are experience-defining. 
   - In-game Lobby/Matchmaking
   - The Weapon Stat System
-  - The Mission Selection
 
 ## In-game Lobby/Matchmaking
 ![](payday-solo-in-lobby.webp)
@@ -12,4 +11,7 @@ The game only offers online matchmaking for players who are in the game. This me
 
 ## The Weapon Stat System
 ![](weapon.jpg)
-The loadout system
+
+The weapon stat system is vague and confusing to put it simply. First off, weapons have levels. One would assume to increase a weapon level you would use the weapon. This is not the case. In fact, you can go a whole mission without even firing the weapon and still get a predestined amount of meaningless experience. The game encourages players to run through a heist as fast as possible and do the bare minimum and you will get whatever the game decides to give you. Even when you level a weapon, the attachments you get barely affect the weapon stats. Stats are represented by vague lines on the right side of the screen. One would assume that if a weapon has a full bar in the recoil section for example, the weapon would have a lot of recoil. Again, the user is wrong, more full bar = less. See, this isn't the case for other stat bars. Each stat bar means different things based on its fullness. Attachments give vague changes represented by + and -. You would think + means more and - means less but again you are wrong. + can sometimes mean more but also less and the same goes for -. In Payday 2, each stat had a numerical value, the higher the number the better the stat. 
+
+The shortcomings of the launch of Payday 3 have permanently destroyed a beloved franchise. Hours of video essays and documentaries have been made outlining even more issues than these. As a longtime fan of the franchise, I am heartbroken that the game has utterly failed in every way to satisfy the users' needs and that their response is to tell the user that they are wrong, but perhaps that is a journal entry for another time.
